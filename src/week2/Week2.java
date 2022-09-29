@@ -17,6 +17,7 @@ public class Week2 {
         // TODO code application logic here
         System.out.println("Hello Git");
         System.out.println("see");
+         System.out.println("It is working");
     }
     
 }
