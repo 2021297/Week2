@@ -18,6 +18,7 @@ public class Week2 {
         System.out.println("Hello Git");
         System.out.println("see");
          System.out.println("It is working");
+         System.out.println("do you");
     }
     
 }
